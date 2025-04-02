@@ -293,8 +293,8 @@
 }
 
 .u-section-2 .u-list-1 {
-  margin-top: 56px;
-  margin-bottom: 37px;
+  margin-top: 55px;
+  margin-bottom: 38px;
 }
 
 .u-section-2 .u-repeater-1 {
@@ -307,6 +307,11 @@
 .u-section-2 .u-list-item-1 {
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -327,6 +332,11 @@
 .u-section-2 .u-list-item-2 {
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -347,6 +357,11 @@
 .u-section-2 .u-list-item-3 {
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-3 {
@@ -367,6 +382,11 @@
 .u-section-2 .u-list-item-4 {
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-4 {
@@ -387,6 +407,11 @@
 .u-section-2 .u-list-item-5 {
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-5 {
@@ -407,6 +432,11 @@
 .u-section-2 .u-list-item-6 {
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-6 {
@@ -427,6 +457,11 @@
 .u-section-2 .u-list-item-7 {
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-7 {
@@ -447,6 +482,11 @@
 .u-section-2 .u-list-item-8 {
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-8 {
@@ -467,6 +507,11 @@
 .u-section-2 .u-list-item-9 {
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-9 {
@@ -487,6 +532,11 @@
 .u-section-2 .u-list-item-10 {
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-10 {
@@ -507,6 +557,11 @@
 .u-section-2 .u-list-item-11 {
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-11 {
@@ -527,6 +582,11 @@
 .u-section-2 .u-list-item-12 {
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-12 {
@@ -547,6 +607,11 @@
 .u-section-2 .u-list-item-13 {
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-13 {
@@ -567,6 +632,11 @@
 .u-section-2 .u-list-item-14 {
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-14 {
@@ -587,6 +657,11 @@
 .u-section-2 .u-list-item-15 {
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-15 {
@@ -607,6 +682,11 @@
 .u-section-2 .u-list-item-16 {
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-16 {
@@ -627,6 +707,11 @@
 .u-section-2 .u-list-item-17 {
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-17 {
@@ -647,6 +732,11 @@
 .u-section-2 .u-list-item-18 {
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-18 {
@@ -679,7 +769,6 @@
   }
 
   .u-section-2 .u-list-1 {
-    margin-top: 55px;
     margin-bottom: 27px;
   }
 
@@ -842,7 +931,7 @@
   }
 
   .u-section-2 .u-list-1 {
-    margin-bottom: 37px;
+    margin-bottom: 38px;
   }
 
   .u-section-2 .u-repeater-1 {
@@ -884,7 +973,7 @@
   }
 
   .u-section-2 .u-list-1 {
-    margin-bottom: 37px;
+    margin-bottom: 38px;
   }
 
   .u-section-2 .u-repeater-1 {
@@ -911,6 +1000,12 @@
   background-image: none;
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-timing-function: ease-in-out;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -931,6 +1026,12 @@
   background-image: none;
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-timing-function: ease-in-out;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-3 .u-container-layout-2 {
@@ -951,6 +1052,12 @@
   background-image: none;
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-timing-function: ease-in-out;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-3 .u-container-layout-3 {
@@ -971,6 +1078,12 @@
   background-image: none;
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-timing-function: ease-in-out;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-3 .u-container-layout-4 {
@@ -991,6 +1104,12 @@
   background-image: none;
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-timing-function: ease-in-out;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-3 .u-container-layout-5 {
@@ -1011,6 +1130,12 @@
   background-image: none;
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-timing-function: ease-in-out;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-3 .u-container-layout-6 {
@@ -1031,6 +1156,12 @@
   background-image: none;
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-timing-function: ease-in-out;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-3 .u-container-layout-7 {
@@ -1051,6 +1182,12 @@
   background-image: none;
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-timing-function: ease-in-out;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-3 .u-container-layout-8 {
@@ -1071,6 +1208,12 @@
   background-image: none;
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-timing-function: ease-in-out;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-3 .u-container-layout-9 {
@@ -1091,6 +1234,12 @@
   background-image: none;
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-timing-function: ease-in-out;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-3 .u-container-layout-10 {
@@ -1111,6 +1260,12 @@
   background-image: none;
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-timing-function: ease-in-out;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-3 .u-container-layout-11 {
@@ -1131,6 +1286,12 @@
   background-image: none;
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-timing-function: ease-in-out;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-3 .u-container-layout-12 {
@@ -1151,6 +1312,12 @@
   background-image: none;
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-timing-function: ease-in-out;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-3 .u-container-layout-13 {
@@ -1171,6 +1338,12 @@
   background-image: none;
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-timing-function: ease-in-out;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-3 .u-container-layout-14 {
@@ -1191,6 +1364,12 @@
   background-image: none;
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-timing-function: ease-in-out;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-3 .u-container-layout-15 {
@@ -1211,6 +1390,12 @@
   background-image: none;
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-timing-function: ease-in-out;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-3 .u-container-layout-16 {
@@ -1231,6 +1416,12 @@
   background-image: none;
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-timing-function: ease-in-out;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-3 .u-container-layout-17 {
@@ -1251,6 +1442,12 @@
   background-image: none;
   --radius: 30px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-timing-function: ease-in-out;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-3 .u-container-layout-18 {
